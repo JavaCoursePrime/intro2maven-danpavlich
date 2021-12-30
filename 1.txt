@@ -1,0 +1,1 @@
+ mvn archetype:generate -DgroupId=intro -DartifactId=introprog -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
